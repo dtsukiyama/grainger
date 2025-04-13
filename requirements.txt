@@ -1,0 +1,6 @@
+pandas
+jupyter
+openai
+backoff
+deepeval
+pytest

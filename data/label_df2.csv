@@ -1,0 +1,51 @@
+query,title,description,label,explanation
+kodak photo paper 8.5 x 11 glossy,"Kodak photo paper 8.5 x 11 glossy, 50 counts 66 lb - 252 g/m (41159-8360513)","nan
+
+                        brand: KODAK
+
+                        color: nan",E,"The product satisfies all the specifications of the user's query: it is Kodak photo paper, the size is 8.5 x 11, and the finish is glossy. While additional specifications such as count and weight are provided, they do not contradict any of the query specifications and the query's specifications are fully met. Therefore, it is classified as an Exact match ('E')."
+kodak photo paper 8.5 x 11 glossy,"Kodak photo paper 8.5 x 11 matte, 100 count 39 lb - 145 g/m (41164-8318164)","nan
+
+                        brand: KODAK
+
+                        color: nan",I,"The product fails to meet a central aspect of the query: the finish of the photo paper. The query specifies 'glossy' whereas the product is 'matte'. This difference in finish means the product does not fulfill a key requirement of the query, making it irrelevant (I) for the user's needs."
+kodak photo paper 8.5 x 11 glossy,"Photo Paper, 6.5 mil, Glossy, 8-1/2 x 11, 100 Sheets/Pack","Perfect for everyday photo printing. Instant dry. No smearing or smudging. Works on all inkjet printers.
+
+                        brand: KODAK
+
+                        color: nan",E,"The product satisfies all the specifications of the user's query. It is glossy photo paper, sized 8.5 x 11 inches, and from the brand Kodak. The product details match the query requirements exactly, adhering to the KDD Cup 2022 definition of an Exact match."
+kodak photo paper 8.5 x 11 glossy,"Kodak 8209017 Photo Paper, 6.5 mil, Glossy, 8-1/2 x 11, 100 Sheets/Pack","Perfect for everyday photo printing. Instant dry. No smearing or smudging. Works on all inkjet printers.
+
+                        brand: Doaaler
+
+                        color: nan",E,"The product matches all the query specifications, which include being Kodak photo paper, size 8.5 x 11, and having a glossy finish. The brand specification is met as the product line name is Kodak, which matches the query. The additional information about color is not specified in the query, and per guidelines, lack of mention in product details is acceptable. Hence, it is an Exact match according to KDD Cup 2022 guidelines."
+kodak photo paper 8.5 x 11 glossy,"Kodak Photo Paper for inkjet printers, Gloss Finish, 7 mil thickness, 50 Sheets, 8.5” x 11” (1213712)","nan
+
+                        brand: KODAK
+
+                        color: White",E,"The product details match the query with respect to all specifications mentioned. The product is Kodak brand photo paper, is glossy, and has the dimensions 8.5 x 11 inches, exactly as specified in the query. The thickness and quantity of sheets do not contradict any query requirements. Therefore, it satisfies all the query specifications and is labeled as an exact match (E)."
+kodak photo paper 8.5 x 11 glossy,"Kodak Ultra Premium Photo Paper for inkjet printers, Gloss Finish, 10.7 mil thickness, 25 sheets, 8.5” x 11” (8366353),White","nan
+
+                        brand: KODAK
+
+                        color: White",E,"The product is an exact match for the query. It is Kodak photo paper, matches the specified dimensions of 8.5 x 11 inches, and has a glossy finish as required. All specifications in the user’s query are fulfilled by the product's details."
+kodak photo paper 8.5 x 11 glossy,"Kodak Premium Photo Paper for inkjet printers, Gloss Finish, 8.5 mil thickness, 25 Sheets, 8.5” x 11” (8689283)","nan
+
+                        brand: KODAK
+
+                        color: White",E,"The product matches the user's query perfectly. The user query asks for 'kodak photo paper 8.5 x 11 glossy'. The product provided is Kodak photo paper with a glossy finish and the correct dimensions of 8.5"" x 11"". All specifications of the query are satisfied, therefore it is an Exact match."
+kodak photo paper 8.5 x 11 glossy,"Kodak Photo Paper for inkjet printers, Matte Finish, 7 mil thickness, 100 sheets, 8.5” x 11” (8318164)","nan
+
+                        brand: KODAK
+
+                        color: White",I,"The product does not meet the specifications of the user query: 'kodak photo paper 8.5 x 11 glossy'. The product mentioned is a matte finish photo paper, while the query explicitly specifies 'glossy'. Finish/type of paper is a central aspect for photo paper, therefore, it is labeled as Irrelevant (I)."
+kodak photo paper 8.5 x 11 glossy,"Kodak Premium Photo Paper for inkjet printers, Gloss Finish, 8.5 mil thickness, 50 Sheets, 8.5” x 11” (8360513),White","nan
+
+                        brand: KODAK
+
+                        color: White",E,"The product is an exact match as it satisfies all the query specifications: it is Kodak photo paper with a size of 8.5 x 11 inches, and is glossy, which matches the query 'kodak photo paper 8.5 x 11 glossy'. The color 'White' is consistent with the typical look of glossy photo paper and does not contradict the query specifics."
+kodak photo paper 8.5 x 11 glossy,"KODAK Photo Paper Gloss 8.5""x11"", 25 count, 48lb-180g/m2 weight, 6.5 mil thickness (41161 - 1912369),White","nan
+
+                        brand: KODAK
+
+                        color: White",E,"The product matches all the requirements of the user's query: it is Kodak (matching the brand specification), it is photo paper, it is glossy, and it has the dimensions of 8.5 x 11 inches. Therefore, it satisfies all specifications in the query."
