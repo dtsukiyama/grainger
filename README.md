@@ -73,6 +73,8 @@ These pipelines must be run sequentially because consequent pipelines rely on pr
 
 I did not use local LLMs because if the additional overhead involved. 
 
+I wanted to test the approach against unseen queries; however i determined I did not have enough time to do that.
+
 # Docker Pipeline Runner
 
 This setup allows you to run your three pipelines within Docker, using environment variables from a `.env` file.
