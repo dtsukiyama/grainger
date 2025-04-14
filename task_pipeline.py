@@ -1,4 +1,4 @@
-""""""
+"""Pipeline to determine query correctness and generate reformulated query."""
 
 import pandas as pd 
 import logging

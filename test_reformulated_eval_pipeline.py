@@ -1,3 +1,5 @@
+"""Pipeline to evaluate reformulated query performance."""
+
 import logging
 import pytest
 import pandas as pd

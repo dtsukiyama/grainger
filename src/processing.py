@@ -2,6 +2,7 @@
 class Processor():
 
     def format_context(self, dataframe, location):
+        """Format dataframe row data for chat completion api messages."""
         sample = dataframe.loc[location]
         query = sample.query
         title = sample.product_title

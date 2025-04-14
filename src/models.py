@@ -24,6 +24,7 @@ class Tasks():
         self.chat_completion_model = "gpt-4o"  
 
     def generate_message(self, task, query, title, description, label, agent_decision=None):
+        """Generate messages for chat completion api"""
 
         task1 = [
         {
@@ -160,6 +161,7 @@ class Tasks():
 
     @backoff.on_exception(backoff.expo, openai.RateLimitError)
     def chat_completion(self, task, query, title, description, label, agent_decision):
+        """Call chat completion api."""
         if task == 'task1':
             response_format = ModelOutput
         elif task == 'task2':
@@ -184,6 +186,7 @@ class Classifier():
         self.chat_completion_model = "gpt-4o" 
 
     def generate_message(self, task, query, title, description):
+        """Generate messages for chat completion api."""
 
         task1 = [
         {
@@ -242,6 +245,7 @@ class Classifier():
 
     @backoff.on_exception(backoff.expo, openai.RateLimitError)
     def chat_completion(self, task, query, title, description):
+        """Call chat completion api."""
         messages = self.generate_message(task, query, title, description)
         response = client.beta.chat.completions.parse( 
             model=self.chat_completion_model,
@@ -256,6 +260,7 @@ class Controller():
         self.task_manager = Tasks()
 
     def run_tasks(self, query, title, description, label):
+        """Run tasks from Tasks class."""
         task3_new_query = None
         task1 = self.task_manager.chat_completion('task1', query, title, description, label, None)
         task2 = self.task_manager.chat_completion('task2', query, title, description, label, task1)

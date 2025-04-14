@@ -1,4 +1,4 @@
-""""""
+"""Pipeline to generated labels for reformulated queries."""
 
 import pandas as pd 
 import logging

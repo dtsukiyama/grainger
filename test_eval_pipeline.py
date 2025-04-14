@@ -1,3 +1,5 @@
+"""Pipeline to evaluate performance of Tasks pipeline."""
+
 import logging
 import pytest
 import pandas as pd

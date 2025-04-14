@@ -1,4 +1,4 @@
-""""""
+"""Pipeline to generate true labels."""
 
 import pandas as pd 
 import logging
